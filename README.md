@@ -34,8 +34,7 @@ My approach combines **clean development practices** with **strong design sense*
 
 <p align="center">
 
-HTML • CSS • JavaScript • JAVA • MySQL • Python • TypeScript • Angular
-Git • GitHub • VS Code • Figma
+HTML • CSS • JavaScript • JAVA • MySQL • Python • TypeScript • Angular • GitHub • VS Code • Figma
 
 </p>
 
