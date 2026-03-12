@@ -1,7 +1,7 @@
 <!-- PROFILE BANNER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Emil%20|%20Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364,100:00f2fe&height=200&section=header&text=Emil%20|%20Frontend%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Emil</h1>
