@@ -28,13 +28,13 @@ My approach combines **clean development practices** with **strong design sense*
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,python,ts,angular,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,ts,angular,git,github,vscode,figma" />
 
 </p>
 
 <p align="center">
 
-HTML • CSS • JavaScript • JAVA • MySQL • Python • TypeScript • Angular • GitHub • VS Code • Figma
+HTML • CSS • JavaScript • JAVA • Python • TypeScript • Angular • GitHub • VS Code • Figma
 
 </p>
 
